@@ -1,0 +1,17 @@
+.gallery{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding: 10px;
+}
+.gallery img{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+.gallery::-webkit-scrollbar{
+    display: none;
+}
+.title{
+    font-family:cursive;
+}

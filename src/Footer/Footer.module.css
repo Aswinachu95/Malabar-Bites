@@ -1,0 +1,23 @@
+.contact{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.contact img {
+    width: 30px;
+    height: 30px;
+}
+.connect img{
+    width: 25px;
+    height: 25px;
+}
+.useful a{
+    text-decoration: none;
+    display: block;
+    color: rgb(0, 0, 0);
+}
+.info{
+    width: 200px;
+}

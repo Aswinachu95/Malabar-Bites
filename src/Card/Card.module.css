@@ -1,0 +1,15 @@
+.cardContainer{
+    text-align: center;
+    justify-content: space-evenly;
+}
+.card{
+    display: inline-block;
+    text-align: center;
+    width: 350px;
+}
+.card img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 20px;
+}
